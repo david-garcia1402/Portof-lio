@@ -21,7 +21,7 @@ def resource_path(relative_path):
 
     return os.path.join(base_path, relative_path)
 
-Logo = resource_path("Logo.png")
+Logo = resource_path('Logo.png')
 
 co0 = '#2e2d2b' #preto
 co1 = '#feffff' #branco
