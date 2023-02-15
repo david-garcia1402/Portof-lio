@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#BIBLIOTECAS
 #Importando tkinter para interface gráfica
 from tkinter import*
 from tkinter import Tk, StringVar, ttk
@@ -9,7 +9,6 @@ from tkinter import filedialog
 from crudview import*
 import os
 import sys
-import babel
 
 def resource_path(relative_path):
     """ Get absolute path to resource, works for dev and for PyInstaller """
